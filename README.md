@@ -27,10 +27,11 @@ W folderze znajdziesz skompresowany plik globalterrorismdb_0718dist.zip. Należy
 
 ```
 $ unzip globalterrorismdb_0718dist.zip
+```
 
 ### Uruchomienie projektu
 
 ```
 jupyter notebook miniproject.ipynb
 ```
-```
+
