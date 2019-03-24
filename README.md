@@ -22,3 +22,9 @@ $ git clone https://github.com/mzurek/miniprojekt
 $ cd miniprojekt
 ```
 ### Rozpakuj dane
+
+W folderze znajdziesz skompresowany plik globalterrorismdb_0718dist.zip. Należy go rozpakowac w folderze projektu.
+
+```
+$ unzip globalterrorismdb_0718dist.zip
+```
